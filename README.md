@@ -1,6 +1,6 @@
 # BlogPost
 
-BlogPost is a web application designed for creating and managing your own blogs. It offers a user-friendly interface for writing articles, adding images, and organizing content.
+Blog post is a versatile web application that empowers you to create, publish, and manage your own blogs with ease. Whether you're a seasoned blogger or just getting started, our platform provides a user-friendly interface for crafting captivating articles and seamlessly organizing your content.
 
 ## Technologies Used
 
@@ -55,7 +55,11 @@ To create a new blog post, click on the "New Post" button, where users can enter
 
 ## Screenshots
 
-(You can add screenshots of your website here to showcase its interface and features.)
+![Homepage](/pictures/Homepage.PNG)
+
+
+
+![Formpage](/pictures/Formpage.PNG)
 
 ## Contributing
 
