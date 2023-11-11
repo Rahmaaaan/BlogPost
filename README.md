@@ -36,13 +36,13 @@ To run BlogPost locally, follow these steps:
 3. Run the server in one terminal
 
    ```bash
-   npm server.js
+   node server.js
    ```
 
 4. Run the website in another terminal
 
    ```bash
-   npm index.js
+   node index.js
    ```
 
 5. Open your web browser and navigate to `http://localhost:3000` to access the website.
